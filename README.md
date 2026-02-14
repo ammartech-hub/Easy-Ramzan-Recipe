@@ -68,6 +68,7 @@ Passionate about building AI-driven solutions that solve real-world problems.
 
 *   🔗 **GitHub:** [github.com/ammartech-hub](https://github.com/ammartech-hub)
 *   💼 **LinkedIn:** [linkedin.com/in/ammar-khan/](https://www.linkedin.com/in/ammar-khan/)
+*   🔗 **Live Demo:** https://easy-ramzan-recipe.vercel.app/
 
 ---
 
